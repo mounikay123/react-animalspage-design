@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.cret-col{
+  color: rgb(22, 217, 233) !important;
+  font-size: 2.25rem !important;
+}
+.nav-brd2{
+  background-color: rgb(22, 217, 233) !important;
+}
+.logo-imag2{
+  height: 100%;
+  width: 107%;
+}
+.logo-imag{
+  width: 126%;
+  height: 60%;
+}
+.icon-back{
+
+  background-color: aqua;
+  border-radius: 50%;
+  padding: 16px;
+  margin-right: 56px;
+}
+
+.hrHov{
+  color:#ffc107;
+}
+.mounika{
+  padding:0px;
+}
+.pad-lef-right{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.heading-sty{
+  text-transform: capitalize;
+  color: #fff;
+  word-spacing: 5px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  line-height: 1.3;
+  font-size: 4em;
+}
+.carousel-caption {
+  top: 30%;
+  bottom: auto;
+}
+.Lin-sty{
+  font-size: 1em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  word-spacing: 6px;
+  margin-bottom: 15px;
+  display: block;
+}
+.para-sty{
+  letter-spacing: 1px;
+  margin-top: 1em;
+  font-size: 1.3em;
+  width: 65%;
+  font-weight: 600;
+  margin: 0 auto 0;
+  color: #fff;
+  text-transform: capitalize;
+  font-style: italic;
+  word-spacing: 3px;
+}
+.view-btn{
+  background-color: rgb(22, 217, 233) !important;
+  padding: 8px 35px !important;
+  color: #000 !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  letter-spacing: 1px !important;
+  border: none;
+  text-transform: capitalize !important;
+  border-radius: 20px !important;
+  margin-top: 4%;
+}
